@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 I'm currently studying!<br>Involved in open source contributions!<br><br>
 
 
