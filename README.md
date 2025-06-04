@@ -15,7 +15,7 @@ I'm currently studying!<br>Involved in open source contributions!<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanya-Verma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
