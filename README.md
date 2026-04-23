@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## About Me:
-I'm currently studying!<br>Involved in open source contributions!<br><br>
+I am currently pursuing a major in Computer Science (Artificial Intelligence) from Rungta College Of Engineering and Technology,bhilai.!<br>Involved in open source contributions!<br><br>
 
 
 ## 🌐 Socials:
