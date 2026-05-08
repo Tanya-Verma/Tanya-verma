@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/tanya-verma-962788281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn
+<a href="https://www.linkedin.com/in/tanya-verma-962788281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn<br>
 <a href="https://x.com/Bussiness922363"> X
 
 
