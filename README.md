@@ -7,7 +7,8 @@
 <a href="https://www.linkedin.com/in/tanya-verma-962788281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn<br>
 <a href="https://x.com/Bussiness922363"> X<br>
 <a href="https://leetcode.com/u/jrpsqS93Nn/"> Leetcode<br>
-<a href="https://codeforces.com/profile/tanya.dav5301">Codeforces
+<a href="https://codeforces.com/profile/tanya.dav5301">Codeforces<br>
+<a href="https://www.codechef.com/users/next_care_13">CodeChef
 
 
 
