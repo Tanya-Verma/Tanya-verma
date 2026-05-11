@@ -9,7 +9,8 @@
 <a href="https://leetcode.com/u/jrpsqS93Nn/"> Leetcode<br>
 <a href="https://codeforces.com/profile/tanya.dav5301">Codeforces<br>
 <a href="https://www.codechef.com/users/next_care_13">CodeChef<br>
-<a 
+<a a href="https://discord.gg/BppBYWCF">Discord
+
 
 
 
