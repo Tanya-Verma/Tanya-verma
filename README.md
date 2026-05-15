@@ -1,6 +1,6 @@
 ## Hi there I'm Tanya Verma.
 ## About Me:
-*I am currently pursuing a major in Computer Science (Artificial Intelligence) from Rungta College Of Engineering and Technology,bhilai.!<br>Involved in open source contributions and !im a observer too*<br><br>
+*I am currently pursuing a major in Computer Science (Artificial Intelligence) from Rungta College Of Engineering and Technology,bhilai.!<br>Involved in open source contributions and ! I'm a observer too*<br><br>
 
 
 ## Socials:
